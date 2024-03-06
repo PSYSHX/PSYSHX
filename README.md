@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PSYSHX
-- 👀 I’m interested in ... Learning Python and Unreal Engine 5
-- 🌱 I’m currently learning ...UE5
-
-<!---
-PSYSHX/PSYSHX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ayman Chergui
+- 🎓 A 22-year-old student currently pursuing a Master's 1 in Web Development and Cybersecurity at ISEN TOULON.
+- 🌐 Passionate about honing skills in web development, creating dynamic and secure online experiences.
+- 🔒 Committed to exploring the dynamic field of cybersecurity to ensure robust digital protection.
+- 🚀 Excited about the intersection of web development and cybersecurity for a holistic understanding of digital landscapes.
